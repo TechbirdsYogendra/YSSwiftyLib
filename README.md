@@ -1,0 +1,2 @@
+# YSSwiftyLib
+Cocoa Pods Sample
